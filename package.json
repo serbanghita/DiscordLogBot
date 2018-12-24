@@ -1,0 +1,29 @@
+{
+  "name": "discordlogbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serbanghita/DiscordLogBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serbanghita/DiscordLogBot/issues"
+  },
+  "homepage": "https://github.com/serbanghita/DiscordLogBot#readme",
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2"
+  }
+}
